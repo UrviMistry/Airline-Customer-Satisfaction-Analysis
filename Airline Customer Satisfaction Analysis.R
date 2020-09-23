@@ -1,4 +1,4 @@
-data=read.csv("C:\\Users\\Harsh Darji\\Desktop\\SS.csv", header=TRUE)   # Naming the file data
+data=read.csv("C:\\Users\\Urvi Mistry\\Desktop\\SS.csv", header=TRUE)   # Naming the file data
 
 
 # Renaming Columns 
